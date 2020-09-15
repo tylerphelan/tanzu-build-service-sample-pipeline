@@ -274,5 +274,7 @@ Please take a look at the deploy task and script found in the `pipeline/` direct
 ## Next Steps
 Soon to come we will be exploring how to set up integration testing with your app and kpack!
 
+## Credits
 
+Created by @elenorebastian
 
